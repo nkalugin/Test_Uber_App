@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Uber Pickups in NYC: thr App')
+st.title('Uber Pickups in NYC: the App')
 
 DATE_COLUMN='date/time'
 
